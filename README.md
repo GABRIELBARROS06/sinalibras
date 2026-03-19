@@ -43,6 +43,12 @@ Fui responsável pelo desenvolvimento do front-end da aplicação, além de cont
 
 ---
 
+🎨 Protótipo (Figma)
+
+A interface do sistema foi planejada no Figma:
+
+🔗 [https://figma.com/seu-link-aqui](https://www.figma.com/design/9xqWXw6ToBq82wuSfh881U/SinaLibras?node-id=242-344&m=dev&t=vTY4pw1FGWIX5h6J-1)
+
 ## 🎯 Objetivo
 
 Projeto acadêmico com foco em acessibilidade e inclusão digital.
